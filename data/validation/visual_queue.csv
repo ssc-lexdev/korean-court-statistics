@@ -1,0 +1,100 @@
+﻿id,dataset,source,table,row,district,year,ocr_value,stratum,page_ref,human_value,note,tl_pages,tl_value,tl_status,visual_pages
+5,duration,2006_pdf_vision,민사본안/제1심-단독,2월이내,,2005,18595.0,duration|2006_pdf_vision,2006년판 PDF — '민사본안/제1심-단독' 표 (data/raw/2006/pdf),,,"p24,p25",,not_found,2006_ny_p024.png 2006_ny_p025.png
+6,court_panel,2016_pdf_vision,민사본안_1심_단독,공주지원,대전지방법원,2007,610.0,court_panel|2016_pdf_vision,2016_p008.png 2016_p009.png,,,p8,80.0,mismatch,2016_ny_p008.png 2016_ny_p009.png
+12,pending(개황),2015_pdf_vision,행정소송 행정소송사건 접수·처리·미제 건수(표 66),총계/미제,,2015,18333.0,pending(개황)|2015_pdf_vision,2015년판 PDF — '행정소송 행정소송사건 접수·처리·미제 건수(표 66)' 표 (data/raw/2015/pdf),,,p61,,no_text_layer,2015_gh_p061.png
+13,duration,2006_pdf_vision,형사공판/제1심-단독,5월이내,,2005,13486.0,duration|2006_pdf_vision,2006년판 PDF — '형사공판/제1심-단독' 표 (data/raw/2006/pdf),,,"p70,p71",,not_found,2006_ny_p070.png 2006_ny_p071.png
+18,pending(개황),2017_pdf_vision,형사공판 형사공판사건 접수·처리·미제 상황(표 94),총계/미제,,2017,133212.0,pending(개황)|2017_pdf_vision,2017년판 PDF — '형사공판 형사공판사건 접수·처리·미제 상황(표 94)' 표 (data/raw/2017/pdf),,,p73,,no_text_layer,2017_gh_p073.png
+19,pending(개황),2017_pdf_vision,특허·지식재산 특허소송사건 접수·처리·미제 건수(표 81),총계/미제,,2017,663.0,pending(개황)|2017_pdf_vision,2017년판 PDF — '특허·지식재산 특허소송사건 접수·처리·미제 건수(표 81)' 표 (data/raw/2017/pdf),,,p66,,no_text_layer,2017_gh_p066.png
+20,duration,2011_pdf_vision,민사본안/항소심-지방법원,3월이내,,2011,2526.0,duration|2011_pdf_vision,2011년판 PDF — '민사본안/항소심-지방법원' 표 (data/raw/2011/pdf),,,"p24,p25",,not_found,2011_ny_p024.png 2011_ny_p025.png
+23,duration,2016_pdf_vision,민사본안/항소심-지방법원,1월이내,,2014,839.0,duration|2016_pdf_vision,2016년판 PDF — '민사본안/항소심-지방법원' 표 (data/raw/2016/pdf),,,"p24,p25,p26",,not_found,2016_ny_p024.png 2016_ny_p025.png 2016_ny_p026.png
+28,duration,2011_pdf_vision,형사공판/제1심-단독,2년이내,,2007,4816.0,duration|2011_pdf_vision,2011년판 PDF — '형사공판/제1심-단독' 표 (data/raw/2011/pdf),,,"p69,p70",,not_found,2011_ny_p069.png 2011_ny_p070.png
+32,duration,2006_pdf_vision,민사본안/항소심-지방법원,6월이내,,2006,2936.0,duration|2006_pdf_vision,2006년판 PDF — '민사본안/항소심-지방법원' 표 (data/raw/2006/pdf),,,"p24,p25",,not_found,2006_ny_p024.png 2006_ny_p025.png
+33,court_panel,2011_pdf_vision,민사본안_1심_합의,영덕지원,대구지방법원,2004,26.0,court_panel|2011_pdf_vision,2011_p008.png,,,p8,,not_found,2011_ny_p008.png
+34,pending(개황),2017_pdf_vision,가사소송 가사소송사건 접수·처리·미제 건수(표 49),총계/접수,,2017,51593.0,pending(개황)|2017_pdf_vision,2017년판 PDF — '가사소송 가사소송사건 접수·처리·미제 건수(표 49)' 표 (data/raw/2017/pdf),,,p54,,no_text_layer,2017_gh_p054.png
+36,pending(개황),2009_pdf_vision,"치료감호 치료감호처분사건 접수, 처리, 미제 인원(표 101)",총계/처리,,2009,637.0,pending(개황)|2009_pdf_vision,"2009년판 PDF — '치료감호 치료감호처분사건 접수, 처리, 미제 인원(표 101)' 표 (data/raw/2009/pdf)",,,p14,6.0,mismatch,2009_gh_p014.png
+37,duration,2006_pdf_vision,민사본안/항소심-고등법원,3월이내,,2002,483.0,duration|2006_pdf_vision,2006년판 PDF — '민사본안/항소심-고등법원' 표 (data/raw/2006/pdf),,,"p24,p25",,not_found,2006_ny_p024.png 2006_ny_p025.png
+40,pending(개황),2007_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 101),총계/미제,,2007,95.0,pending(개황)|2007_pdf_vision,2007년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 101)' 표 (data/raw/2007/pdf),,,p66,,not_found,2007_gh_p066.png
+42,duration,2006_pdf_vision,민사본안/제1심-합의,2년초과,,2002,1175.0,duration|2006_pdf_vision,2006년판 PDF — '민사본안/제1심-합의' 표 (data/raw/2006/pdf),,,"p24,p25",,not_found,2006_ny_p024.png 2006_ny_p025.png
+43,pending(개황),2008_pdf_vision,"행정소송 행정소송사건 접수, 처리, 미제 건수(표 65)",총계/처리,,2008,23072.0,pending(개황)|2008_pdf_vision,"2008년판 PDF — '행정소송 행정소송사건 접수, 처리, 미제 건수(표 65)' 표 (data/raw/2008/pdf)",,,p45,3389.0,mismatch,2008_gh_p045.png
+44,pending(개황),2017_pdf_vision,민사본안 민사본안사건 접수·처리·미제 건수(표 15),총계/미제,,2017,409128.0,pending(개황)|2017_pdf_vision,2017년판 PDF — '민사본안 민사본안사건 접수·처리·미제 건수(표 15)' 표 (data/raw/2017/pdf),,,p35,,no_text_layer,2017_gh_p035.png
+45,duration,2016_pdf_vision,민사본안/제1심-단독,2월이내,,2012,134626.0,duration|2016_pdf_vision,2016년판 PDF — '민사본안/제1심-단독' 표 (data/raw/2016/pdf),,,"p24,p25,p26",,not_found,2016_ny_p024.png 2016_ny_p025.png 2016_ny_p026.png
+51,pending(개황),2006_pdf_vision,특허·지식재산 특허소송사건 접수·처리·미제건수(표 72),총계/접수,,2006,1608.0,pending(개황)|2006_pdf_vision,2006년판 PDF — '특허·지식재산 특허소송사건 접수·처리·미제건수(표 72)' 표 (data/raw/2006/pdf),,,p44,1674.0,mismatch,2006_gh_p044.png
+58,duration,2011_pdf_vision,형사공판/제1심-단독,2년이내,,2008,7423.0,duration|2011_pdf_vision,2011년판 PDF — '형사공판/제1심-단독' 표 (data/raw/2011/pdf),,,"p69,p70",,not_found,2011_ny_p069.png 2011_ny_p070.png
+62,court_panel,2016_pdf_vision,민사본안_1심_단독,부천지원,인천지방법원,2009,4990.0,court_panel|2016_pdf_vision,2016_p008.png 2016_p009.png,,,p8,987.0,mismatch,2016_ny_p008.png 2016_ny_p009.png
+64,pending(개황),2008_pdf_vision,"특허·지식재산 특허소송사건 접수,처리,미제건수(표 74)",총계/미제,,2008,972.0,pending(개황)|2008_pdf_vision,"2008년판 PDF — '특허·지식재산 특허소송사건 접수,처리,미제건수(표 74)' 표 (data/raw/2008/pdf)",,,p48,2.0,mismatch,2008_gh_p048.png
+66,court_panel,2016_pdf_vision,민사본안_1심_단독,안동지원,대구지방법원,2009,763.0,court_panel|2016_pdf_vision,2016_p008.png 2016_p009.png,,,p8,124.0,mismatch,2016_ny_p008.png 2016_ny_p009.png
+78,pending(개황),2012_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 101),총계/접수,,2012,559.0,pending(개황)|2012_pdf_vision,2012년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 101)' 표 (data/raw/2012/pdf),,,p68,,not_found,2012_gh_p068.png
+79,court_panel,2016_pdf_vision,민사본안_1심_소액,함안군법원,창원지방법원,2013,539.0,court_panel|2016_pdf_vision,2016_p010.png 2016_p011.png 2016_p012.png 2016_p013.png,,,"p10,p11,p12,p13",,not_found,2016_ny_p010.png 2016_ny_p011.png 2016_ny_p012.png 2016_ny_p013.png
+80,duration,2006_pdf_vision,민사본안/항소심-지방법원,2월이내,,2003,647.0,duration|2006_pdf_vision,2006년판 PDF — '민사본안/항소심-지방법원' 표 (data/raw/2006/pdf),,,"p24,p25",,not_found,2006_ny_p024.png 2006_ny_p025.png
+81,pending(개황),2012_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 101),총계/처리,,2012,554.0,pending(개황)|2012_pdf_vision,2012년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 101)' 표 (data/raw/2012/pdf),,,p68,,not_found,2012_gh_p068.png
+85,duration,2011_pdf_vision,형사공판/제1심-단독,1월이내,,2010,44048.0,duration|2011_pdf_vision,2011년판 PDF — '형사공판/제1심-단독' 표 (data/raw/2011/pdf),,,"p69,p70",,not_found,2011_ny_p069.png 2011_ny_p070.png
+87,duration,2006_pdf_vision,형사공판/상고심-단독,5월이내,,2006,395.0,duration|2006_pdf_vision,2006년판 PDF — '형사공판/상고심-단독' 표 (data/raw/2006/pdf),,,"p70,p71",,not_found,2006_ny_p070.png 2006_ny_p071.png
+89,pending(개황),2004_pdf_vision,가사소송 가사소송사건 접수·처리·미제건수(표 41),총계/접수,,2004,47144.0,pending(개황)|2004_pdf_vision,2004년판 PDF — '가사소송 가사소송사건 접수·처리·미제건수(표 41)' 표 (data/raw/2004/pdf),,,p29,68210.0,mismatch,2004_gh_p029.png
+94,pending(개황),2005_pdf_vision,가사소송 가사소송사건 접수·처리·미제건수(표 41),총계/접수,,2005,44464.0,pending(개황)|2005_pdf_vision,2005년판 PDF — '가사소송 가사소송사건 접수·처리·미제건수(표 41)' 표 (data/raw/2005/pdf),,,p29,63629.0,mismatch,2005_gh_p029.png
+97,pending(개황),2015_pdf_vision,민사본안 민사본안사건 접수·처리·미제 건수(표 12),총계/미제,,2015,407262.0,pending(개황)|2015_pdf_vision,2015년판 PDF — '민사본안 민사본안사건 접수·처리·미제 건수(표 12)' 표 (data/raw/2015/pdf),,,p33,,no_text_layer,2015_gh_p033.png
+101,court_panel,2011_pdf_vision,가사소송_1심,소계,청주지방법원,2003,1359.0,court_panel|2011_pdf_vision,2011_p042.png,,,p42,,not_found,2011_ny_p042.png
+102,pending(개황),2007_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 101),총계/접수,,2007,497.0,pending(개황)|2007_pdf_vision,2007년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 101)' 표 (data/raw/2007/pdf),,,p66,,not_found,2007_gh_p066.png
+103,duration,2006_pdf_vision,민사본안/항소심-고등법원,5월이내,,2004,1163.0,duration|2006_pdf_vision,2006년판 PDF — '민사본안/항소심-고등법원' 표 (data/raw/2006/pdf),,,"p24,p25",,not_found,2006_ny_p024.png 2006_ny_p025.png
+104,court_panel,2016_pdf_vision,민사본안_1심_단독,부산지방법원,부산지방법원,2007,20743.0,court_panel|2016_pdf_vision,2016_p008.png 2016_p009.png,,,p8,2533.0,mismatch,2016_ny_p008.png 2016_ny_p009.png
+107,court_panel,2011_pdf_vision,형사공판_1심_단독,충주지원,청주지방법원,2005,796.0,court_panel|2011_pdf_vision,2011_p056.png,,,p56,,not_found,2011_ny_p056.png
+110,court_panel,2016_pdf_vision,민사본안_1심_단독,소계,대구지방법원,2009,17784.0,court_panel|2016_pdf_vision,2016_p008.png 2016_p009.png,,,p8,2994.0,mismatch,2016_ny_p008.png 2016_ny_p009.png
+116,duration,2011_pdf_vision,민사본안/제1심-단독,6월이내,,2010,85767.0,duration|2011_pdf_vision,2011년판 PDF — '민사본안/제1심-단독' 표 (data/raw/2011/pdf),,,"p24,p25",,not_found,2011_ny_p024.png 2011_ny_p025.png
+118,pending(개황),2006_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 100),총계/접수,,2006,489.0,pending(개황)|2006_pdf_vision,2006년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 100)' 표 (data/raw/2006/pdf),,,p60,580.0,mismatch,2006_gh_p060.png
+119,pending(개황),2015_pdf_vision,특허·지식재산 특허소송사건 접수·처리·미제 건수(표 74),총계/처리,,2015,1079.0,pending(개황)|2015_pdf_vision,2015년판 PDF — '특허·지식재산 특허소송사건 접수·처리·미제 건수(표 74)' 표 (data/raw/2015/pdf),,,p64,,no_text_layer,2015_gh_p064.png
+120,pending(개황),2015_pdf_vision,형사공판 형사공판사건 접수·처리·미제 상황(표 87),총계/접수,,2015,363156.0,pending(개황)|2015_pdf_vision,2015년판 PDF — '형사공판 형사공판사건 접수·처리·미제 상황(표 87)' 표 (data/raw/2015/pdf),,,p71,,no_text_layer,2015_gh_p071.png
+122,pending(개황),2010_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 100),총계/접수,,2010,576.0,pending(개황)|2010_pdf_vision,2010년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 100)' 표 (data/raw/2010/pdf),,,p65,,not_found,2010_gh_p065.png
+124,pending(개황),2015_pdf_vision,행정소송 행정소송사건 접수·처리·미제 건수(표 66),총계/접수,,2015,28177.0,pending(개황)|2015_pdf_vision,2015년판 PDF — '행정소송 행정소송사건 접수·처리·미제 건수(표 66)' 표 (data/raw/2015/pdf),,,p61,,no_text_layer,2015_gh_p061.png
+126,pending(개황),2013_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 101),총계/처리,,2013,635.0,pending(개황)|2013_pdf_vision,2013년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 101)' 표 (data/raw/2013/pdf),,,p68,,not_found,2013_gh_p068.png
+128,pending(개황),2010_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 100),총계/처리,,2010,562.0,pending(개황)|2010_pdf_vision,2010년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 100)' 표 (data/raw/2010/pdf),,,p65,,not_found,2010_gh_p065.png
+132,pending(개황),2013_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 101),총계/접수,,2013,657.0,pending(개황)|2013_pdf_vision,2013년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 101)' 표 (data/raw/2013/pdf),,,p68,,not_found,2013_gh_p068.png
+136,duration,2016_pdf_vision,민사본안/항소심-지방법원,1월이내,,2013,848.0,duration|2016_pdf_vision,2016년판 PDF — '민사본안/항소심-지방법원' 표 (data/raw/2016/pdf),,,"p24,p25,p26",,not_found,2016_ny_p024.png 2016_ny_p025.png 2016_ny_p026.png
+140,pending(개황),2008_pdf_vision,"치료감호 치료감호처분사건 접수, 처리, 미제 인원(표 101)",총계/처리,,2008,533.0,pending(개황)|2008_pdf_vision,"2008년판 PDF — '치료감호 치료감호처분사건 접수, 처리, 미제 인원(표 101)' 표 (data/raw/2008/pdf)",,,p64,5.0,mismatch,2008_gh_p064.png
+144,pending(개황),2017_pdf_vision,특허·지식재산 특허소송사건 접수·처리·미제 건수(표 81),총계/처리,,2017,1274.0,pending(개황)|2017_pdf_vision,2017년판 PDF — '특허·지식재산 특허소송사건 접수·처리·미제 건수(표 81)' 표 (data/raw/2017/pdf),,,p66,,no_text_layer,2017_gh_p066.png
+145,pending(개황),2015_pdf_vision,행정소송 행정소송사건 접수·처리·미제 건수(표 66),총계/처리,,2015,27885.0,pending(개황)|2015_pdf_vision,2015년판 PDF — '행정소송 행정소송사건 접수·처리·미제 건수(표 66)' 표 (data/raw/2015/pdf),,,p61,,no_text_layer,2015_gh_p061.png
+147,duration,2011_pdf_vision,민사본안/항소심-지방법원,2월이내,,2007,753.0,duration|2011_pdf_vision,2011년판 PDF — '민사본안/항소심-지방법원' 표 (data/raw/2011/pdf),,,"p24,p25",,not_found,2011_ny_p024.png 2011_ny_p025.png
+149,pending(개황),2017_pdf_vision,가사소송 가사소송사건 접수·처리·미제 건수(표 49),총계/처리,,2017,51580.0,pending(개황)|2017_pdf_vision,2017년판 PDF — '가사소송 가사소송사건 접수·처리·미제 건수(표 49)' 표 (data/raw/2017/pdf),,,p54,,no_text_layer,2017_gh_p054.png
+150,pending(개황),2013_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 101),총계/미제,,2013,145.0,pending(개황)|2013_pdf_vision,2013년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 101)' 표 (data/raw/2013/pdf),,,p68,,not_found,2013_gh_p068.png
+153,pending(개황),2015_pdf_vision,형사공판 형사공판사건 접수·처리·미제 상황(표 87),총계/미제,,2015,128477.0,pending(개황)|2015_pdf_vision,2015년판 PDF — '형사공판 형사공판사건 접수·처리·미제 상황(표 87)' 표 (data/raw/2015/pdf),,,p71,,no_text_layer,2015_gh_p071.png
+155,duration,2006_pdf_vision,민사본안/제1심-합의,1월이내,,2002,699.0,duration|2006_pdf_vision,2006년판 PDF — '민사본안/제1심-합의' 표 (data/raw/2006/pdf),,,"p24,p25",,not_found,2006_ny_p024.png 2006_ny_p025.png
+158,duration,2016_pdf_vision,형사공판/상고심-합의,6월이내,,2013,157.0,duration|2016_pdf_vision,2016년판 PDF — '형사공판/상고심-합의' 표 (data/raw/2016/pdf),,,"p68,p69,p70",,not_found,2016_ny_p068.png 2016_ny_p069.png 2016_ny_p070.png
+161,pending(개황),2008_pdf_vision,"치료감호 치료감호처분사건 접수, 처리, 미제 인원(표 101)",총계/미제,,2008,89.0,pending(개황)|2008_pdf_vision,"2008년판 PDF — '치료감호 치료감호처분사건 접수, 처리, 미제 인원(표 101)' 표 (data/raw/2008/pdf)",,,p64,33.0,mismatch,2008_gh_p064.png
+165,duration,2011_pdf_vision,민사본안/항소심-지방법원,3월이내,,2007,1252.0,duration|2011_pdf_vision,2011년판 PDF — '민사본안/항소심-지방법원' 표 (data/raw/2011/pdf),,,"p24,p25",,not_found,2011_ny_p024.png 2011_ny_p025.png
+166,pending(개황),2011_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 100),총계/미제,,2011,147.0,pending(개황)|2011_pdf_vision,2011년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 100)' 표 (data/raw/2011/pdf),,,p67,,not_found,2011_gh_p067.png
+174,duration,2011_pdf_vision,형사공판/상고심-단독,2년초과,,2009,76.0,duration|2011_pdf_vision,2011년판 PDF — '형사공판/상고심-단독' 표 (data/raw/2011/pdf),,,"p69,p70",,not_found,2011_ny_p069.png 2011_ny_p070.png
+175,pending(개황),2011_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 100),총계/처리,,2011,645.0,pending(개황)|2011_pdf_vision,2011년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 100)' 표 (data/raw/2011/pdf),,,p67,,not_found,2011_gh_p067.png
+178,pending(개황),2012_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 101),총계/미제,,2012,145.0,pending(개황)|2012_pdf_vision,2012년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 101)' 표 (data/raw/2012/pdf),,,p68,,not_found,2012_gh_p068.png
+185,pending(개황),2015_pdf_vision,가사소송 가사소송사건 접수·처리·미제 건수 (표 42),총계/처리,,2015,52387.0,pending(개황)|2015_pdf_vision,2015년판 PDF — '가사소송 가사소송사건 접수·처리·미제 건수 (표 42)' 표 (data/raw/2015/pdf),,,p52,,no_text_layer,2015_gh_p052.png
+187,pending(개황),2007_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 101),총계/처리,,2007,511.0,pending(개황)|2007_pdf_vision,2007년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 101)' 표 (data/raw/2007/pdf),,,p66,,not_found,2007_gh_p066.png
+190,court_panel,2011_pdf_vision,형사공판_1심,소계,대구지방법원,2005,26475.0,court_panel|2011_pdf_vision,2011_p054.png,,,p54,,not_found,2011_ny_p054.png
+193,duration,2006_pdf_vision,민사본안/항소심-지방법원,합계,,2005,20642.0,duration|2006_pdf_vision,2006년판 PDF — '민사본안/항소심-지방법원' 표 (data/raw/2006/pdf),,,"p24,p25",,not_found,2006_ny_p024.png 2006_ny_p025.png
+197,pending(개황),2004_pdf_vision,행정소송 행정소송(본안)사건 접수·처리·미제 건수(표 62),총계/접수,,2004,17858.0,pending(개황)|2004_pdf_vision,2004년판 PDF — '행정소송 행정소송(본안)사건 접수·처리·미제 건수(표 62)' 표 (data/raw/2004/pdf),,,p38,28719.0,mismatch,2004_gh_p038.png
+206,pending(개황),2010_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 100),총계/미제,,2010,115.0,pending(개황)|2010_pdf_vision,2010년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 100)' 표 (data/raw/2010/pdf),,,p65,,not_found,2010_gh_p065.png
+207,court_panel,2011_pdf_vision,민사본안_항소심,광주지방법원,광주지방법원,2006,1280.0,court_panel|2011_pdf_vision,2011_p014.png,,,p14,,not_found,2011_ny_p014.png
+210,pending(개황),2011_pdf_vision,치료감호 치료감호사건 접수·처리·미제 인원(표 100),총계/접수,,2011,688.0,pending(개황)|2011_pdf_vision,2011년판 PDF — '치료감호 치료감호사건 접수·처리·미제 인원(표 100)' 표 (data/raw/2011/pdf),,,p67,,not_found,2011_gh_p067.png
+215,duration,2016_pdf_vision,민사본안/제1심-합의,2년초과,,2013,1507.0,duration|2016_pdf_vision,2016년판 PDF — '민사본안/제1심-합의' 표 (data/raw/2016/pdf),,,"p24,p25,p26",,not_found,2016_ny_p024.png 2016_ny_p025.png 2016_ny_p026.png
+220,pending(개황),2004_pdf_vision,형사공판 형사공판사건 접수·처리·미제 상황(표 83),총계/접수,,2004,311208.0,pending(개황)|2004_pdf_vision,2004년판 PDF — '형사공판 형사공판사건 접수·처리·미제 상황(표 83)' 표 (data/raw/2004/pdf),,,p48,389710.0,mismatch,2004_gh_p048.png
+223,duration,2016_pdf_vision,형사공판/제1심-합의,2년초과,,2014,480.0,duration|2016_pdf_vision,2016년판 PDF — '형사공판/제1심-합의' 표 (data/raw/2016/pdf),,,"p68,p69,p70",,not_found,2016_ny_p068.png 2016_ny_p069.png 2016_ny_p070.png
+227,duration,2006_pdf_vision,형사공판/상고심-합의,4월이내,,2004,273.0,duration|2006_pdf_vision,2006년판 PDF — '형사공판/상고심-합의' 표 (data/raw/2006/pdf),,,"p70,p71",,not_found,2006_ny_p070.png 2006_ny_p071.png
+228,court_panel,2011_pdf_vision,형사공판_1심,공주지원,대전지방법원,2004,1103.0,court_panel|2011_pdf_vision,2011_p054.png,,,p54,,not_found,2011_ny_p054.png
+229,duration,2016_pdf_vision,민사본안/항소심-고등법원,2월이내,,2014,290.0,duration|2016_pdf_vision,2016년판 PDF — '민사본안/항소심-고등법원' 표 (data/raw/2016/pdf),,,"p24,p25,p26",,not_found,2016_ny_p024.png 2016_ny_p025.png 2016_ny_p026.png
+230,duration,2006_pdf_vision,민사본안/항소심-지방법원,5월이내,,2005,2711.0,duration|2006_pdf_vision,2006년판 PDF — '민사본안/항소심-지방법원' 표 (data/raw/2006/pdf),,,"p24,p25",,not_found,2006_ny_p024.png 2006_ny_p025.png
+231,pending(개황),2015_pdf_vision,특허·지식재산 특허소송사건 접수·처리·미제 건수(표 74),총계/미제,,2015,610.0,pending(개황)|2015_pdf_vision,2015년판 PDF — '특허·지식재산 특허소송사건 접수·처리·미제 건수(표 74)' 표 (data/raw/2015/pdf),,,p64,,no_text_layer,2015_gh_p064.png
+233,pending(개황),2005_pdf_vision,형사공판 형사공판사건 접수·처리·미제 상황(표 83),총계/접수,,2005,285154.0,pending(개황)|2005_pdf_vision,2005년판 PDF — '형사공판 형사공판사건 접수·처리·미제 상황(표 83)' 표 (data/raw/2005/pdf),,,p48,365668.0,mismatch,2005_gh_p048.png
+235,duration,2016_pdf_vision,형사공판/상고심-단독,6월이내,,2014,710.0,duration|2016_pdf_vision,2016년판 PDF — '형사공판/상고심-단독' 표 (data/raw/2016/pdf),,,"p68,p69,p70",,not_found,2016_ny_p068.png 2016_ny_p069.png 2016_ny_p070.png
+236,duration,2016_pdf_vision,민사본안/제1심-단독,합계,,2013,1059122.0,duration|2016_pdf_vision,2016년판 PDF — '민사본안/제1심-단독' 표 (data/raw/2016/pdf),,,"p24,p25,p26",,not_found,2016_ny_p024.png 2016_ny_p025.png 2016_ny_p026.png
+239,duration,2011_pdf_vision,민사본안/항소심-지방법원,2월이내,,2011,1444.0,duration|2011_pdf_vision,2011년판 PDF — '민사본안/항소심-지방법원' 표 (data/raw/2011/pdf),,,"p24,p25",,not_found,2011_ny_p024.png 2011_ny_p025.png
+242,pending(개황),2017_pdf_vision,행정소송 행정소송사건 접수·처리·미제 건수(표 73),총계/접수,,2017,34980.0,pending(개황)|2017_pdf_vision,2017년판 PDF — '행정소송 행정소송사건 접수·처리·미제 건수(표 73)' 표 (data/raw/2017/pdf),,,p63,,no_text_layer,2017_gh_p063.png
+246,pending(개황),2017_pdf_vision,행정소송 행정소송사건 접수·처리·미제 건수(표 73),총계/처리,,2017,34900.0,pending(개황)|2017_pdf_vision,2017년판 PDF — '행정소송 행정소송사건 접수·처리·미제 건수(표 73)' 표 (data/raw/2017/pdf),,,p63,,no_text_layer,2017_gh_p063.png
+255,court_panel,2011_pdf_vision,형사공판_1심,소계,청주지방법원,2005,6047.0,court_panel|2011_pdf_vision,2011_p054.png,,,p54,,not_found,2011_ny_p054.png
+261,court_panel,2011_pdf_vision,민사본안_항소심,광주지방법원,광주지방법원,2004,1339.0,court_panel|2011_pdf_vision,2011_p014.png,,,p14,,not_found,2011_ny_p014.png
+266,court_panel,2016_pdf_vision,민사본안_1심_단독,수원지방법원,수원지방법원,2007,11387.0,court_panel|2016_pdf_vision,2016_p008.png 2016_p009.png,,,p8,2714.0,mismatch,2016_ny_p008.png 2016_ny_p009.png
+270,duration,2006_pdf_vision,민사본안/항소심-지방법원,4월이내,,2005,2232.0,duration|2006_pdf_vision,2006년판 PDF — '민사본안/항소심-지방법원' 표 (data/raw/2006/pdf),,,"p24,p25",,not_found,2006_ny_p024.png 2006_ny_p025.png
+275,duration,2011_pdf_vision,민사본안/항소심-고등법원,1년이내,,2007,10546.0,duration|2011_pdf_vision,2011년판 PDF — '민사본안/항소심-고등법원' 표 (data/raw/2011/pdf),,,"p24,p25",,not_found,2011_ny_p024.png 2011_ny_p025.png
+276,pending(개황),2015_pdf_vision,가사소송 가사소송사건 접수·처리·미제 건수 (표 42),총계/접수,,2015,54016.0,pending(개황)|2015_pdf_vision,2015년판 PDF — '가사소송 가사소송사건 접수·처리·미제 건수 (표 42)' 표 (data/raw/2015/pdf),,,p52,,no_text_layer,2015_gh_p052.png
+277,pending(개황),2017_pdf_vision,형사공판 형사공판사건 접수·처리·미제 상황(표 94),총계/접수,,2017,371524.0,pending(개황)|2017_pdf_vision,2017년판 PDF — '형사공판 형사공판사건 접수·처리·미제 상황(표 94)' 표 (data/raw/2017/pdf),,,p73,,no_text_layer,2017_gh_p073.png
+278,pending(개황),2017_pdf_vision,행정소송 행정소송사건 접수·처리·미제 건수(표 73),총계/미제,,2017,18181.0,pending(개황)|2017_pdf_vision,2017년판 PDF — '행정소송 행정소송사건 접수·처리·미제 건수(표 73)' 표 (data/raw/2017/pdf),,,p63,,no_text_layer,2017_gh_p063.png
+279,duration,2006_pdf_vision,형사공판/제1심-합의,2년이내,,2002,270.0,duration|2006_pdf_vision,2006년판 PDF — '형사공판/제1심-합의' 표 (data/raw/2006/pdf),,,"p70,p71",,not_found,2006_ny_p070.png 2006_ny_p071.png
+280,duration,2011_pdf_vision,민사본안/제1심-합의,2년초과,,2009,1277.0,duration|2011_pdf_vision,2011년판 PDF — '민사본안/제1심-합의' 표 (data/raw/2011/pdf),,,"p24,p25",,not_found,2011_ny_p024.png 2011_ny_p025.png
+282,duration,2006_pdf_vision,민사본안/제1심-합의,3월이내,,2005,3945.0,duration|2006_pdf_vision,2006년판 PDF — '민사본안/제1심-합의' 표 (data/raw/2006/pdf),,,"p24,p25",,not_found,2006_ny_p024.png 2006_ny_p025.png
+284,court_panel,2016_pdf_vision,민사본안_1심_단독,경주지원,대구지방법원,2007,909.0,court_panel|2016_pdf_vision,2016_p008.png 2016_p009.png,,,p8,144.0,mismatch,2016_ny_p008.png 2016_ny_p009.png
+286,pending(개황),2005_pdf_vision,행정소송 행정소송(본안)사건 접수·처리·미제 건수(표 62),총계/접수,,2005,19665.0,pending(개황)|2005_pdf_vision,2005년판 PDF — '행정소송 행정소송(본안)사건 접수·처리·미제 건수(표 62)' 표 (data/raw/2005/pdf),,,p38,31422.0,mismatch,2005_gh_p038.png

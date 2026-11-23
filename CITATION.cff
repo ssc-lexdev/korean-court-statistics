@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below. If you use the data, cite the dataset (Zenodo DOI)."
+type: software
+title: "Korean Judicial Yearbook Court Statistics, 2002–2025: build code"
+version: "1.0.0"
+date-released: "2026-11-24"
+license: MIT
+authors:
+  - family-names: "Choi"
+    given-names: "Sungsoo"
+    affiliation: "Seoul AI School, aSSIST University, Seoul, Republic of Korea; Korean Bar Association, Seoul, Republic of Korea"
+    orcid: "https://orcid.org/0009-0000-4010-3272"
+  - family-names: "Oh"
+    given-names: "Taeyeon"
+    affiliation: "Seoul AI School, aSSIST University, Seoul, Republic of Korea; Department of Management Information Systems, Dong-A University, Busan, Republic of Korea"
+    orcid: "https://orcid.org/0000-0002-1867-5554"
+contact:
+  - family-names: "Oh"
+    given-names: "Taeyeon"
+    email: "toh1@dau.ac.kr"
+    affiliation: "Seoul AI School, aSSIST University, Seoul, Republic of Korea; Department of Management Information Systems, Dong-A University, Busan, Republic of Korea"
+    orcid: "https://orcid.org/0000-0002-1867-5554"
+repository-code: "https://github.com/ssc-lexdev/korean-court-statistics"
+keywords:
+  - judicial statistics
+  - court caseload
+  - Korea
+  - data extraction
+  - vision-language model
+references:
+  - type: dataset
+    title: "Korean Judicial Yearbook Court Statistics, 2002–2025: National Caseload Series, Court-Level Filing Panel, and Duration Distributions"
+    version: "1.0.0"
+    authors:
+      - family-names: "Choi"
+        given-names: "Sungsoo"
+      - family-names: "Oh"
+        given-names: "Taeyeon"
+    doi: "10.5281/zenodo.24470048"

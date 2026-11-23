@@ -1,0 +1,4 @@
+﻿source_edition,source_file,pdf_page,auto_page_label,human_page_label,human_agrees,observation,checked_on,check_method
+2016,raw/2016/pdf/01_2016년_사건의개황.pdf,25,ok,ok,Y,characters valid; reading order scrambled (sentences split across lines),2026-11-19,copy-paste from PDF viewer compared with page image
+2016,raw/2016/pdf/03_2016년_사건의현황(민사).pdf,15,ok,ok,Y,characters valid; reading order scrambled (table emitted column by column; headers merged),2026-11-19,copy-paste from PDF viewer compared with page image
+2016,raw/2016/pdf/03_2016년_사건의현황(민사).pdf,81,ok,ok,Y,characters valid; reading order scrambled (table emitted column by column); printed title reduced to '7.',2026-11-19,copy-paste from PDF viewer compared with page image

@@ -1,0 +1,2 @@
+﻿id,dataset,source,table,row,district,year,stratum,unit_type,court_id_h,tl_pages,tl_status,page_ref,visual_pages
+51,court_panel_soak,2016_pdf_vision,민사본안_1심_소액,과천시법원,수원지방법원,2015,2016|si_gun_court,si_gun_court,수원지방법원/과천시법원,,not_found,2016_p010.png 2016_p011.png 2016_p012.png 2016_p013.png,2016_ny_p010.png 2016_ny_p011.png 2016_ny_p012.png 2016_ny_p013.png

@@ -1,0 +1,2 @@
+﻿id,dataset,source,table,row,district,year,ocr_value,stratum,unit_type,court_id_h,tl_value,tl_pages,tl_status,page_ref,label_error,visual_value,visual_note,verified_value,verifier,human_value,unreadable,human_note,error
+5,court_panel_soak,2006_pdf_vision,민사본안_1심_소액,김천지원,대구지방법원,2002,628.0,2006|branch,branch,대구지방법원/김천지원,628.0,p11,match,2006_p011.png,False,,,628.0,pdf_text_layer,1628.0,,,True

@@ -1,0 +1,37 @@
+# Source files (not redistributed; download with scrape_scourt.py)
+data/raw/*
+data/xlsx/*
+!data/raw/.gitkeep
+!data/xlsx/.gitkeep
+
+# Model response cache (published with the dataset on Zenodo: model_responses/)
+data/ocr_cache_backup/*
+!data/ocr_cache_backup/.gitkeep
+
+# Generated working tables and outputs
+data/series/*
+!data/series/.gitkeep
+data/validation/*
+!data/validation/manual_sample.csv
+!data/validation/manual_sample_scored.csv
+!data/validation/visual_queue.csv
+!data/validation/visual_reads.csv
+!data/validation/human_errors.csv
+!data/validation/soak_sample.csv
+!data/validation/soak_sample_scored.csv
+!data/validation/visual_queue_soak.csv
+!data/validation/visual_reads_soak.csv
+!data/validation/human_errors_soak.csv
+!data/validation/text_layer_handcheck.csv
+!data/validation/soak_population_tl.csv
+release/
+
+# Human verification workbooks embed source page images; never commit
+*.xlsx
+
+# Secrets and local files
+.env
+*api*key*
+__pycache__/
+*.pyc
+.venv/
