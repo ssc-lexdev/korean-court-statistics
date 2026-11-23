@@ -42,7 +42,9 @@ def main():
     shutil.copytree(ROOT / "release_template", OUT / "release_template")
     for f in REPO_FILES:
         shutil.copyfile(ROOT / "repo_template" / f, OUT / f)
-    shutil.copyfile(ROOT / "release_template" / "LICENSE_CODE", OUT / "LICENSE")
+    # Plain MIT text only (the scope note after it stops GitHub from detecting the licence; README states the scope)
+    mit = (ROOT / "release_template" / "LICENSE_CODE").read_text(encoding="utf-8").split("\nThis licence applies")[0].rstrip() + "\n"
+    (OUT / "LICENSE").write_text(mit, encoding="utf-8", newline="\n")
     for d in ("data/series", "data/raw", "data/xlsx", "data/ocr_cache_backup"):
         (OUT / d).mkdir(parents=True, exist_ok=True)
         (OUT / d / ".gitkeep").write_text("", encoding="utf-8")
